@@ -1,0 +1,24 @@
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.deps.json
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.dll
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.pdb
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.dll
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\refint\UrnaEletronica.dll
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.pdb
+C:\Users\carlran\OneDrive - BANCO SAFRA SA\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\ref\UrnaEletronica.dll
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.deps.json
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.dll
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\bin\Debug\net6.0\UrnaEletronica.pdb
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.dll
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\refint\UrnaEletronica.dll
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\UrnaEletronica.pdb
+C:\Users\carla\OneDrive\Desktop\dev\Testes Automatizados\UrnaEletronica\UrnaEletronica\UrnaEletronica\obj\Debug\net6.0\ref\UrnaEletronica.dll

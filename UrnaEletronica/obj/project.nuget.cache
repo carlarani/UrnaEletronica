@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwwL7MJe7yf8HfXcFWpWy6RSZ2I5uPV9rnVz/YyKgAkGilc7gFswFQaoejRoj6i1JxWzQhb2YFFHuJFDwyYEqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carla\\OneDrive\\Desktop\\dev\\Testes Automatizados\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica\\UrnaEletronica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carla\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
+    "C:\\Users\\carla\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\carla\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
